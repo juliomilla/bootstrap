@@ -1,0 +1,55 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #d6d6d6;
+}
+
+.navbar-primary {
+	background-color: #262626;
+}
+
+.top-logo {
+	margin-top: -5px;
+}
+
+.avatar-top-navbar {
+	margin-top: 13px;
+}
+
+.navbar-secondary {
+	background-color: #323232;
+	margin-top: 50px;
+	height: 40px;
+	padding: 0px;
+}
+
+a.top-nav {
+	color: white;
+}
+
+.navbar-nav.nav-justified > li {
+	float: none;
+}
+
+.navbar-nav a.top-nav:hover,
+.navbar-nav a.top-nav:focus {
+  color: #fff;
+  background-color: #454545;
+}
+
+.top-search {
+	background-color: #595959;
+	border: none;
+}
+
+.form-group.top {
+	display: inline-block;
+	float: none;
+}
+
+.dropdown-toggle top-nav {
+	color: white;
+}
+
+.dropdown.open {
+	z-index: 1000000;
+}
